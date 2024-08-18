@@ -5,19 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee243077-f4dd-447c-8d49-6184fe33d368" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kotaixcl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kotaixcl/baseArmada.git&quot;,
+    &quot;accountId&quot;: &quot;c42d4c15-e782-4152-b8d6-2d24d1d04158&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kLW3scBROnLGCvKrWoi2Vva23s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,10 +63,103 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "TestNG.LoginTests.usuariaInvalidoTest.executor": "Run",
+    "TestNG.navegacionTests.ejercicioTest.executor": "Run",
+    "TestNG.navegacionTests.executor": "Run",
+    "git-widget-placeholder": "5c563e4a",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/carpetaGit/base_automatizacion",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.42402828",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\ntb-rg\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="fa484d8e-654b-46f8-8cd2-4f78e7e10114" reportId="baseArmada/qodana/2024-08-09" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\udemy_selenium\proyectoPomArmado\baseArmada\src\test\java\utiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\udemy_selenium\proyectoPomArmado\baseArmada\src\test\resources" />
+      <recent name="C:\udemy_selenium\proyectoPomArmado\baseArmada\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests.usuariaInvalidoTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.usuariaInvalidoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="proyectoBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automatizado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automatizado" />
+      <option name="MAIN_CLASS_NAME" value="automatizado.LoginTests" />
+      <option name="METHOD_NAME" value="usuariaInvalidoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="navegacionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="proyectoBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automatizado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automatizado" />
+      <option name="MAIN_CLASS_NAME" value="automatizado.navegacionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="navegacionTests.ejercicioTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="proyectoBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automatizado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automatizado" />
+      <option name="MAIN_CLASS_NAME" value="automatizado.navegacionTests" />
+      <option name="METHOD_NAME" value="ejercicioTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.usuariaInvalidoTest" />
+        <item itemvalue="TestNG.navegacionTests" />
+        <item itemvalue="TestNG.navegacionTests.ejercicioTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ntb-rg\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ee243077-f4dd-447c-8d49-6184fe33d368" name="Changes" comment="" />
@@ -41,5 +169,58 @@
       <updated>1723063143186</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/automatizado/navegacionTests.java</url>
+          <line>9</line>
+          <properties class="automatizado.navegacionTests" method="ejercicioTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

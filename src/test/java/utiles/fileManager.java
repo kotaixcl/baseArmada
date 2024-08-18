@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.IOException;
 
 
-public class fileManager {
+public class FileManager {
     private final static String rutaEvidencia = "src/test/resources/screenshots";
     public static void tomaEvidencia (WebDriver driver,String nombreEvidencia){
         final var screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -19,5 +19,14 @@ public class fileManager {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
+    public static void screenShoot (String nombreEvidencia){
+        final var screenshot = ((TakesScreenshot) new WebDriverProvider().get()).
+                getScreenshotAs(OutputType.FILE);
+        final var ruta =    String.format("%s/%s.png",rutaEvidencia,nombreEvidencia);
+        try {
+            FileUtils.copyFile(screenshot, new File(ruta));
+        } catch (IOException e) {
+            throw new RuntimeException(e);}
     }
 }

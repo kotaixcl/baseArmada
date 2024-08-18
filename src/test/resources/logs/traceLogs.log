@@ -1,0 +1,3 @@
+19:22:55.462 INFO  AUTOMATION - Espera la carga de la pagina paginas.loginPage
+19:22:55.556 INFO  AUTOMATION - iniciando test: usuariaInvalidoTest
+19:22:56.319 INFO  AUTOMATION - Aprobado test: usuariaInvalidoTest
